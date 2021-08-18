@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @queenalexa2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-queenalexa2/queenalexa2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Run on Repl.it](resources/gif/qr-scan.gif)](https://replit.com/@RavinduManoj/Queen-Sew-QR-Code)
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar1601&show_icons=true&theme=nightowl" alt="Manish" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar1601&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Manish"/></p></a><br> 
+
+
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{King-Amda}/count.svg) 
+                                                             
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
