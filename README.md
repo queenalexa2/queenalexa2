@@ -1,6 +1,6 @@
 ## ⦁═𝗤𝘂𝗲𝗲𝗻 👸 𝗔𝗹𝗲𝘅𝗮═⦁
 
-####  ![logo](https://telegra.ph/file/5c3f1c0e70083d6a0c23a.jpg) 
+ ![logo](https://telegra.ph/file/5c3f1c0e70083d6a0c23a.jpg) 
 
 
 
@@ -13,6 +13,6 @@
 
 
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{King-Amda}/count.svg) 
+![VisitorCount](https://profile-counter.glitch.me/{queenalexa2}/count.svg) 
                                                              
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
