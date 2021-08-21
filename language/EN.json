@@ -28,7 +28,7 @@
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
             "IM_NOT_ADMIN": "*මම සමූහයෙ පරිපාලකයෙකු නොවේ☹️*",
-            "BANNED": "🙇Kicked Out this Group",
+            "BANNED": "*🙇Kicked Out this Group*",
             "GIVE_ME_USER": "*පුද්ගලයෙකු ලබාදෙන්න😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
@@ -107,7 +107,7 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ 🎭ɴᴇᴏᴛʀᴏ𝙭🪐 Welcome message has been set successfully!*",
+            "WELCOME_SETTED": "*✅ ⦁═Queen 👸 Alexa═⦁Welcome message has been set successfully!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
@@ -186,7 +186,9 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Queen 👸 Alexa*\n```Downloading your song🎧```\n",
+            "DOWNLOADING_SONG": "\n*Queen 👸 Alexa*\n```Downloading your song🎧```\n:*.ılı.——Volume——.ılı.
+:    ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+: Min- – – – – – – – – -●Max*\n",
             "UPLOADING_SONG": "\n*00:00●━━━━━━━━━━━━ 04:02 ⇆           ◁ㅤㅤ❚❚ㅤㅤ▷          ↻*\n ```Uploading your song🎧```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
