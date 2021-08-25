@@ -1,4 +1,4 @@
-## ⦁═𝗤𝘂𝗲𝗲𝗻 👸 𝗔𝗹𝗲𝘅𝗮═⦁
+##   ⦁═𝗤𝘂𝗲𝗲𝗻 👸 𝗔𝗹𝗲𝘅𝗮═⦁
 
 
 
@@ -21,3 +21,6 @@
 ![VisitorCount](https://profile-counter.glitch.me/{queenalexa2}/count.svg) 
                                                              
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+
+       Special Tanks to 
+@Toxic_devil @tharun_bro
