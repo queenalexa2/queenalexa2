@@ -20,7 +20,7 @@
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{queenalexa2}/count.svg) 
                                                              
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/queenalexa2/queenalexa2)
 
        Special Tanks to 
 @Toxic_devil @tharun_bro
